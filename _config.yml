@@ -6,14 +6,8 @@ highlighter:      rouge
 title:            Hip-Oh!
 tagline:          'Statesboro Funk Bois'
 description:      Southern Georgia's Funky Bois
-url:              """
-baseurl:          ""
-remote_theme:     fongandrew/hydeout
-                  # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
+url:              ""
+
 
 
 paginate:         5
@@ -39,9 +33,3 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 
-                                
-# Used for Hydeout's own Github page. Feel free to remove for your
-# own fork.
-hydeout:
-  version:          4.2.0
-  repo:             https://github.com/fongandrew/hydeout
