@@ -8,6 +8,7 @@ tagline:          'Statesboro Funk Bois'
 description:      Southern Georgia's Funky Bois
 url:              https://sloopadelic.github.io
 baseurl:          '/sloopadelic.github.io'
+remote_theme:     fongandrew/hydeout
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
