@@ -1,0 +1,22 @@
+I"Ý<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&amp;display=swap" rel="stylesheet" />
+
+<p>Safront matter.</p>
+
+<div class="language-md highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">category</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">My Category</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p>Or â€¦</p>
+
+<div class="language-md highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">category</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s">Fancy Title</span>
+<span class="na">category</span><span class="pi">:</span> <span class="s">My Category</span>
+<span class="nn">---</span>
+</code></pre></div></div>
+
+<p>Posts get listed below here.</p>
+
+:ET
