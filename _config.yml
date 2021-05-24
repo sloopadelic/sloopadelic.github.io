@@ -6,27 +6,18 @@ highlighter:      rouge
 title:            Hip-Oh!
 tagline:          'Statesboro Funk Bois'
 description:      Southern Georgia's Funky Bois
-url:              http://sloopadelic.github.io
-baseurl:          '/home'
-remote_theme:     'fongandrew/hydeout'
-
+url:              https://sloopadelic.github.io
+baseurl:          '/sloopadelic.github.io'
+remote_theme:     fongandrew/hydeout
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Makefile
-  - README.md
-  - .gitignore
+author:
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
