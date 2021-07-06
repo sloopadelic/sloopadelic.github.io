@@ -20,6 +20,14 @@ Hip-Oh! original - Mary Jane
 <div class="responsive-iframe">
 <iframe src="https://open.spotify.com/embed/track/1zNn9O5EibkD3WsDv5HHmj" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
+
+<h3>
+Home Studio cover of Peaches
+</h3>
+<div class="responsive-iframe">
+<iframe src="https://drive.google.com/file/d/1zfrzGkS0Ekszr8YHZSDPdSKsvQ0xkTcy/preview" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <h3>
 Home Studio cover of Queens of the Stone Age
 </h3>
