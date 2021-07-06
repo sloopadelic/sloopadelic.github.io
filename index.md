@@ -31,6 +31,12 @@ Upcoming Gigs
 </table>
 
 <h3>
+Home Studio cover of Peaches
+</h3>
+<div class="responsive-iframe">
+<iframe src="https://drive.google.com/file/d/1zfrzGkS0Ekszr8YHZSDPdSKsvQ0xkTcy/preview" frameborder="0" allowfullscreen></iframe>
+</div>
+<h3>
 Social Media Streams
 </h3>
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fhipohmusic%2F&tabs=timeline&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=499280248156956" width="100%" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
