@@ -12,7 +12,7 @@ title: Home
 Upcoming Gigs
 </h2>
 <!-- big fuckoff table of dates -->
-<!-->
+<!--
 <table>
 <colgroup>
 <col width="40%" />
