@@ -7,11 +7,12 @@ title: Home
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Martel+Sans&display=swap');
 </style> 
-
+<!--
 <h2>
 Upcoming Gigs
 </h2>
 <!-- big fuckoff table of dates -->
+<!-->
 <table>
 <colgroup>
 <col width="40%" />
@@ -35,7 +36,7 @@ Upcoming Gigs
 </tr>
 </tbody>
 </table>
-
+-->
 <h3>
 Home Studio cover of Peaches
 </h3>
